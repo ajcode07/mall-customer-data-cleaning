@@ -1,9 +1,8 @@
 🧹 Data Cleaning – Mall Customer Segmentation Data
-📌 Task Overview
 
+📌 Task Overview
 This task is part of my Data Analyst Internship – Task 1.
 The objective is to clean and preprocess a raw dataset to make it ready for analysis.
-
 Dataset used: Mall Customer Segmentation Data (Kaggle)
 
 🛠️ Steps Performed
